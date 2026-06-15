@@ -29,7 +29,7 @@ Esse experimento tem como objetivo aprender mais sobre o BGP, sua função e com
 
 ### Topologia Lógica
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-12-11-01-44-image.png)
+![](Imagens Lab9/Captura de tela 2026-06-12 110139.png)
 
 ## Procedimentos
 
