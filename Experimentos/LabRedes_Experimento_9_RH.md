@@ -240,83 +240,83 @@ Tendo configurado os dispositivos dessa maneira a rede fica dessa forma no final
 
 ### R1
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-23-15-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20222311.png)
 
 Legenda: "show running-config" do R1
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-24-06-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20222403.png)
 
 ### R2
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-26-30-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20222620.png)
 
 Legenda: "show running-config" do R2
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-27-21-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20222720.png)
 
 ### R3
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-27-47-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20222745.png)
 
 Legenda: "show running-config" do R3
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-28-14-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20222812.png)
 
 ### R4
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-28-52-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20222850.png)
 
 Legenda: "show running-config" do R4
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-29-17-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20222916.png)
 
 ### R5
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-29-42-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20222940.png)
 
 Legenda: "show running-config" do R5
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-30-09-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20223007.png)
 
 ### R6
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-30-40-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20223038.png)
 
 Legenda: "show running-config" do R6
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-31-05-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20223104.png)
 
 ### R7
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-31-27-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20223125.png)
 
 Legenda: "show running-config" do R7
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-31-50-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20223149.png)
 
 ### R8
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-32-21-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20223217.png)
 
 Legenda: "show running-config" do R8
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-32-45-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20223244.png)
 
 ### VPC1
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-33-39-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20223337.png)
 
 Legenda: ping do VPC da AS 3200 para as AS 1900 e 4100
 
 ### VPC2
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-35-30-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20223528.png)
 
 Legenda: ping do VPC da AS 1900 para as AS 3200 e 4100
 
 ### VPC3
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-06-14-22-35-57-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/d6e3f47a6c34097eae5491e5a73df095d3bbea2a/Imagens%20Lab9/Captura%20de%20tela%202026-06-14%20223556.png)
 
 Legenda: ping do VPC da AS 4100 para as AS 1900 e 3200
 
