@@ -29,7 +29,7 @@ Esse experimento tem como objetivo aprender mais sobre o BGP, no caso, aprendend
 
 ### Topologia Lógica
 
-![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/main/Imagens%20Lab10/Captura%20de%20tela%202026-06-23%20181843.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/e77993bd5bf471a86d3ed5781f08bd29eef4da6a/Imagens%20Lab10/Captura%20de%20tela%202026-06-23%20181843.png)
 
 ## Procedimentos
 
