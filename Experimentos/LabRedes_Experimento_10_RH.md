@@ -306,81 +306,81 @@ Depois de configurar a rede foi observado as tabelas de roteamento dos roteadore
 
 ### R1
 
-![Captura de tela 2026-06-24 154412.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20154412.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20154412.png)
 
-![Captura de tela 2026-06-24 154426.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20154426.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20154426.png)
 
-![Captura de tela 2026-06-24 154703.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20154703.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20154703.png)
 
 ### R2
 
-![Captura de tela 2026-06-24 154731.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20154731.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20154731.png)
 
-![Captura de tela 2026-06-24 154743.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20154743.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20154743.png)
 
-![Captura de tela 2026-06-24 154804.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20154804.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20154804.png)
 
 ### R3
 
-![Captura de tela 2026-06-24 154841.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20154841.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20154841.png)
 
-![Captura de tela 2026-06-24 154853.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20154853.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20154853.png)
 
-![Captura de tela 2026-06-24 154911.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20154911.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20154911.png)
 
 ### R4
 
-![Captura de tela 2026-06-24 154935.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20154935.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20154935.png)
 
-![Captura de tela 2026-06-24 154953.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20154953.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20154953.png)
 
-![Captura de tela 2026-06-24 155007.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20155007.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20155007.png)
 
 ### R5
 
-![Captura de tela 2026-06-24 155028.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20155028.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20155028.png)
 
-![Captura de tela 2026-06-24 155044.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20155044.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20155044.png)
 
-![Captura de tela 2026-06-24 155101.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20155101.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20155101.png)
 
 ### R6
 
-![Captura de tela 2026-06-24 155118.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20155118.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20155118.png)
 
-![Captura de tela 2026-06-24 155131.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20155131.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20155131.png)
 
-![Captura de tela 2026-06-24 155145.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20155145.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20155145.png)
 
 ### R7
 
-![Captura de tela 2026-06-24 155206.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20155206.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20155206.png)
 
-![Captura de tela 2026-06-24 155219.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20155219.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20155219.png)
 
-![Captura de tela 2026-06-24 155235.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20155235.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20155235.png)
 
 ### R8
 
-![Captura de tela 2026-06-24 155252.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20155252.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20155252.png)
 
-![Captura de tela 2026-06-24 155304.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20155304.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20155304.png)
 
-![Captura de tela 2026-06-24 155317.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20155317.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/ec231770c8d43d2e790700335e4c21d10683f5f5/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20155317.png)
 
 Também foi testado a conectividade dos hosts de cada AS entre si:
 
 ### VPC1
 
-![Captura de tela 2026-06-24 155440.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20155440.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/b31c70fe244a101be3e4e08ee64655faf763b6f0/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20155440.png)
 
 ### VPC2
 
-![Captura de tela 2026-06-24 155446.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20155446.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/b31c70fe244a101be3e4e08ee64655faf763b6f0/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20155446.png)
 
 ### VPC3
 
-![Captura de tela 2026-06-24 155452.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-06-24%20155452.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/b31c70fe244a101be3e4e08ee64655faf763b6f0/Imagens%20Lab10/Captura%20de%20tela%202026-06-24%20155452.png)
 
 ## Análise técnica
 
