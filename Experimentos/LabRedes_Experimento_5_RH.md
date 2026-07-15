@@ -29,7 +29,7 @@ A atividade enfatiza o papel do **endereçamento IP**, da **tabela de rotas**�
 
 ## Topologia Lógica
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-07-15-12-00-01-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/444a08e2c1151c318257f2ec38dfe0a469769da9/Imagens%20Lab%205/Captura%20de%20tela%202026-07-15%20115957.png)
 
 ## Procedimentos
 
@@ -125,15 +125,15 @@ write memory
 
 #### R0
 
-![Captura de tela 2026-07-15 115730.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-07-15%20115730.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/444a08e2c1151c318257f2ec38dfe0a469769da9/Imagens%20Lab%205/Captura%20de%20tela%202026-07-15%20115730.png)
 
 #### R1
 
-![Captura de tela 2026-07-15 115751.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-07-15%20115751.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/444a08e2c1151c318257f2ec38dfe0a469769da9/Imagens%20Lab%205/Captura%20de%20tela%202026-07-15%20115751.png)
 
 #### R2
 
-![Captura de tela 2026-07-15 115810.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-07-15%20115810.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/444a08e2c1151c318257f2ec38dfe0a469769da9/Imagens%20Lab%205/Captura%20de%20tela%202026-07-15%20115810.png)
 
 ## Análise técnica
 
