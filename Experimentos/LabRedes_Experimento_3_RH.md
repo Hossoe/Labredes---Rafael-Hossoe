@@ -52,7 +52,7 @@ Realizar o endereçamento de uma rede IP, configurar e verificar VLANs em switch
 
 ## Topologia Lógica
 
-![Captura de tela 2026-07-15 103855.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-07-15%20103855.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/40bd93750385a425e4f5ac43c2827538a1090625/Imagens%20Lab3/Captura%20de%20tela%202026-07-15%20103855.png)
 
 ## Procedimentos
 
