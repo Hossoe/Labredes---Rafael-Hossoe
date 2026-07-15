@@ -31,7 +31,7 @@ Ao final deste laboratório, o estudante deverá ser capaz de:
 
 ## Topologia Lógica
 
-![](C:/Users/rafah/AppData/Roaming/marktext/images/2026-07-14-22-12-18-image.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/033aa65b677e0e2859cd398b596fa0b45ddf6e10/Imagens%20Lab%206/Captura%20de%20tela%202026-07-14%20221213.png)
 
 ## Procedimentos
 
@@ -140,33 +140,33 @@ save
 
 ##### R1
 
-![Captura de tela 2026-07-14 222321.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-07-14%20222321.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/033aa65b677e0e2859cd398b596fa0b45ddf6e10/Imagens%20Lab%206/Captura%20de%20tela%202026-07-14%20222321.png)
 
-![Captura de tela 2026-07-14 222411.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-07-14%20222411.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/033aa65b677e0e2859cd398b596fa0b45ddf6e10/Imagens%20Lab%206/Captura%20de%20tela%202026-07-14%20222411.png)
 
 ##### R2
 
-![Captura de tela 2026-07-14 222439.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-07-14%20222439.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/033aa65b677e0e2859cd398b596fa0b45ddf6e10/Imagens%20Lab%206/Captura%20de%20tela%202026-07-14%20222439.png)
 
-![Captura de tela 2026-07-14 222455.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-07-14%20222455.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/033aa65b677e0e2859cd398b596fa0b45ddf6e10/Imagens%20Lab%206/Captura%20de%20tela%202026-07-14%20222455.png)
 
 ##### R3
 
-![Captura de tela 2026-07-14 222514.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-07-14%20222514.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/033aa65b677e0e2859cd398b596fa0b45ddf6e10/Imagens%20Lab%206/Captura%20de%20tela%202026-07-14%20222514.png)
 
-![Captura de tela 2026-07-14 222533.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-07-14%20222533.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/033aa65b677e0e2859cd398b596fa0b45ddf6e10/Imagens%20Lab%206/Captura%20de%20tela%202026-07-14%20222533.png)
 
 ##### VPC4
 
-![Captura de tela 2026-07-14 222813.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-07-14%20222813.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/033aa65b677e0e2859cd398b596fa0b45ddf6e10/Imagens%20Lab%206/Captura%20de%20tela%202026-07-14%20222813.png)
 
 ##### VPC5
 
-![Captura de tela 2026-07-14 222902.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-07-14%20222902.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/033aa65b677e0e2859cd398b596fa0b45ddf6e10/Imagens%20Lab%206/Captura%20de%20tela%202026-07-14%20222902.png)
 
 ##### VPC6
 
-![Captura de tela 2026-07-14 222907.png](C:\Users\rafah\OneDrive\Pictures\Screenshots\Captura%20de%20tela%202026-07-14%20222907.png)
+![](https://github.com/Hossoe/Labredes---Rafael-Hossoe/blob/033aa65b677e0e2859cd398b596fa0b45ddf6e10/Imagens%20Lab%206/Captura%20de%20tela%202026-07-14%20222907.png)
 
 ## Análise técnica
 
